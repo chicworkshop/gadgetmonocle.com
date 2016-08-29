@@ -251,6 +251,9 @@ a {
 .project-name {
   color: #666;
 }
+.project-tagline {
+  color: #666;
+}
 .btn {
     color: rgba(255, 255, 255, 1);
     background-color: rgba(64, 146, 148, 0.8);
