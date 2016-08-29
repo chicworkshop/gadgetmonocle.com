@@ -246,6 +246,8 @@ a {
 
 
 .page-header {
-  background: url("airHeader_bkgd.jpg");;
+  background: url("airHeader_bkgd.jpg");
 }
+.project-name {
+  color: #666;
 }
