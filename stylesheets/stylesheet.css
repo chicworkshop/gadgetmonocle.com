@@ -251,3 +251,11 @@ a {
 .project-name {
   color: #666;
 }
+.btn {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(64, 146, 148, 0.8);
+    border-color: rgba(64, 146, 148, 1);
+}
+.btn:hover {
+    background-color: rgba(64, 146, 148, 1);
+}
