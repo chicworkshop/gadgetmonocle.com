@@ -259,3 +259,6 @@ a {
 .btn:hover {
     background-color: rgba(64, 146, 148, 1);
 }
+.site-footer {
+    font-size: .8rem;
+}
