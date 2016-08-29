@@ -250,9 +250,12 @@ a {
 }
 .project-name {
   color: #666;
+  font-weight: 300;
+      line-height: 52px;
 }
 .project-tagline {
   color: #666;
+  font-weight: 700;
 }
 .btn {
     color: rgba(255, 255, 255, 1);
@@ -264,4 +267,8 @@ a {
 }
 .site-footer {
     font-size: .8rem;
+}
+a.btn-img:hover {
+opacity: 0.8;
+filter: alpha(opacity=80); /* For IE8 and earlier */
 }
